@@ -1,0 +1,8 @@
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe.config
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exe
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.pdb

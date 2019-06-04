@@ -1,0 +1,28 @@
+E:\Дима учеба\программирование\WinForms\Arkanoid\bin\Debug\WindowsFormsApplication8.exe.config
+E:\Дима учеба\программирование\WinForms\Arkanoid\bin\Debug\WindowsFormsApplication8.exe
+E:\Дима учеба\программирование\WinForms\Arkanoid\bin\Debug\WindowsFormsApplication8.pdb
+E:\Дима учеба\программирование\WinForms\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\WinForms\Arkanoid\obj\Debug\WindowsFormsApplication8.Form1.resources
+E:\Дима учеба\программирование\WinForms\Arkanoid\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+E:\Дима учеба\программирование\WinForms\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WinForms\Arkanoid\obj\Debug\WindowsFormsApplication8.exe
+E:\Дима учеба\программирование\WinForms\Arkanoid\obj\Debug\WindowsFormsApplication8.pdb
+E:\Studying\programming\WinForms\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+E:\Studying\programming\WinForms\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+E:\Studying\programming\WinForms\Arkanoid\bin\Debug\Arkanoid.exe.config
+E:\Studying\programming\WinForms\Arkanoid\bin\Debug\Arkanoid.exe
+E:\Studying\programming\WinForms\Arkanoid\bin\Debug\Arkanoid.pdb
+E:\Studying\programming\WinForms\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+E:\Studying\programming\WinForms\Arkanoid\obj\Debug\Arkanoid.exe
+E:\Studying\programming\WinForms\Arkanoid\obj\Debug\Arkanoid.pdb
+E:\Studying\programming\WinForms\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojAssemblyReference.cache
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+E:\Studying\programming\WinForms\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb

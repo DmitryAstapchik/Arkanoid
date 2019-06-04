@@ -1,0 +1,27 @@
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+c:\users\st.itstep.000\documents\visual studio 2013\Projects\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+D:\JEMAND\WinForms\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\JEMAND\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\JEMAND\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\JEMAND\WinForms\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\JEMAND\WinForms\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\JEMAND\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+D:\JEMAND\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+D:\JEMAND\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\JEMAND\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+E:\Дима учеба\программирование\WinForms\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
